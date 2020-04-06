@@ -14,3 +14,8 @@ Després has de fer el mateix però amb un arxiu js extern
 ========
 No has utilitzat els comparadors per resoldre l'activitat.
 L'hauràs de tornar a fer utilitzant els "if - else"
+
+
+* 20200406
+No cal que creis un nou directori amb les correcions als exercicis. Has de modificar els arxius del directori de l'activitat, i tornar-ho a pujar al GitHub
+
