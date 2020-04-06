@@ -14,6 +14,10 @@ Hola Àlex,
 
 
 ## 20200406
-* No cal que creis un nou directori amb les correcions als exercicis. 
+### Act04
+* No cal que creis un nou directori amb les correcions als exercicis.
 * Has de modificar els arxius del directori de l'activitat, i tornar-ho a pujar al GitHub
 * Evita ficar espais i símbols extranys en els noms dels directoris. Han de ser text pla, sense espais, accents, símbols, ....
+### Act05
+* Revisa tots els ;
+* Sabries fer la *tasca 3* amb dos bucles? Un __for__ dintre d'un altre __for__
