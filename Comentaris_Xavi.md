@@ -21,3 +21,10 @@ Hola Àlex,
 ### Act05
 * Revisa tots els *;*
 * Sabries fer la *tasca 3* amb dos bucles? Un __for__ dintre d'un altre __for__
+
+
+
+
+## 20200427
+
+Ok les activitats 5 i 6
